@@ -1,8 +1,13 @@
 // ==UserScript==
 // @name         禁用知乎推荐页
 // @namespace    zhihu-focus
-// @version      2.2.0
+// @version      2.2.1
 // @description  首页只保留 Logo、搜索和快捷入口；关注页精简导航并隐藏热搜
+// @author       Ethkuil
+// @homepageURL  https://github.com/Ethkuil/zhihu-focus
+// @supportURL   https://github.com/Ethkuil/zhihu-focus/issues
+// @updateURL    https://raw.githubusercontent.com/Ethkuil/zhihu-focus/main/zhihu-focus.user.js
+// @downloadURL  https://raw.githubusercontent.com/Ethkuil/zhihu-focus/main/zhihu-focus.user.js
 // @match        https://www.zhihu.com/*
 // @run-at       document-start
 // @grant        none
